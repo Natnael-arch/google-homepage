@@ -1,0 +1,66 @@
+div.google_img{
+    width: 300px;
+    margin: 150px auto;
+}
+div.form1{
+    margin: -100px 350px 0px;
+    
+}
+input{
+    width: 600px;
+    border-radius: 25px;
+    height: 45px;
+    display: flex;
+    
+}
+
+input:hover{
+    box-shadow: 2px 2px 2px 2px rgb(156, 152, 152);
+    border-style: outset;
+}
+input:active{
+    border-radius: 25px;
+    
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin-left: -3px;
+    padding: 5px;
+    padding-top: 3px;
+    box-sizing: border-box;
+    font-family: serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+a:link{
+    text-decoration: none;
+    color:black;
+    display: inline;
+}
+a:hover{
+    text-decoration: underline;
+   
+}
+.list_div{
+    
+    height: 40px;
+    position: absolute;
+    margin-right: 0px;
+    margin-top: -150px;
+}
+div.footer{
+position: fixed;
+bottom: 0;
+left: 0px;
+width: 100%;
+height: 40px;
+background-color: rgb(228, 214, 214);
+}
+footer.firstfooter{
+    float: left;
+}
+footer.secondfooter{
+    float: right;
+    clear: right;
+}

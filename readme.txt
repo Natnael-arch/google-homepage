@@ -1,0 +1,1 @@
+This is a project given by "The odin project" to work on the front-end of the "Google" homepage
